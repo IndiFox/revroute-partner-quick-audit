@@ -1,6 +1,6 @@
 interface:
   display_name: "Экспресс-аудит партнёрской программы"
-  short_description: "Шесть рычагов, ближайшие точки роста и готовый черновик"
-  default_prompt: "Используй $revroute-partner-quick-audit для быстрого разбора моей партнёрской программы по приложенным материалам."
+  short_description: "Шесть рычагов, приоритеты и недостающие данные"
+  default_prompt: "Используй $revroute-partner-quick-audit для разбора моей партнёрской программы: найди сильные стороны, пробелы, приоритеты и недостающие данные по приложенным материалам."
 policy:
   allow_implicit_invocation: true
